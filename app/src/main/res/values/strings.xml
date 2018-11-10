@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Movie DataBase</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+    <!-- TODO: Strings for main album card menu -->
+    <string name="action_add_favourite">Add to Favorites</string>
+    <string name="action_show_details">Show Details</string>
+</resources>
